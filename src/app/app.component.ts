@@ -15,16 +15,17 @@ import { Component } from '@angular/core';
           0 1px 1px 0 rgba(0, 0, 0, 0.14), 0 1px 3px 0 rgba(0, 0, 0, 0.12);
       }
 
-      .box-stretched {
+       .box-stretched {
         height: 100%;
       }
 
+/*
       .vertical-container {
         margin: 0;
         height: 200px;
         background: var(--surface-d);
         border-radius: 4px;
-      }
+      } */
 
       .nested-grid .p-col-4 {
         padding-bottom: 1rem;
